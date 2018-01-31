@@ -5,3 +5,10 @@
   margin-top: -107.3px; /*same height as header*/
   visibility: hidden;
 }
+
+.anchor1{
+  display: block;
+  height: 300px; /*same height as header*/
+  margin-top: -300px; /*same height as header*/
+  visibility: hidden;
+}
