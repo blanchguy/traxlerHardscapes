@@ -1,0 +1,8 @@
+/* Add here all your css styles (customizations) */
+.anchor{
+  display: block;
+  height: 107.3px; /*same height as header*/
+  margin-top: -107.3px; /*same height as header*/
+  visibility: hidden;
+}
+
